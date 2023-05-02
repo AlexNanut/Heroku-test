@@ -17,7 +17,7 @@ The Expresss JS Note Taker is a simple web application that allows users to writ
 
 ## The Challenge:
 
-Create an application that uses Express.js on the back end by saving and retrieving note data from a JSON file. Once done, merge connect both the back end and front end of the application then deploy the entire application to Heroku.
+To create an application that uses Express.js on the back end by saving and retrieving note data from a JSON file. Once done, connected both the back end and front end of the application then deployed the entire application to Heroku.
 
 ## User Story
 
