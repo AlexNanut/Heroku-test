@@ -61,7 +61,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ### <img width="1440" alt="Screenshot Note-Taker" src="https://user-images.githubusercontent.com/108309770/235611029-9c60aa00-dd9c-4e0a-866d-a614e1bab235.png">
 
 
-
 ## Built With
 - JSON
 - Heroku
