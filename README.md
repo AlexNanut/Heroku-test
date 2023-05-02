@@ -45,7 +45,7 @@ Create an application that uses Express.js on the back end by saving and retriev
 * THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 
-## Usage Instructions
+## Usage Information
 1. Click here to open the [Deployed Application Link:](https://nanut-testing.herokuapp.com/)
 2. Click "Get Started" to open the note taker.
 3. Enter text into the 'title' and 'text' fields 
