@@ -63,11 +63,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Built With
-- JSON:[ JSON]
-- Heroku:[ Heroku ]
+- JSON
+- Heroku
 - Dynamic JavaScript
 - Node.js 
-- Express.js:[Express.js]
+- Express.js
 - Visual Studio Code
 
 ## What I Learned
