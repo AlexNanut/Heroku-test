@@ -44,11 +44,6 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
-## GIF:
-### Figure .1 GIF
-
-The following animation demonstrates the application functionality:
-![A user clicks on slots on the color-coded calendar and edits the events.](/public/assets/images/Express-JS-Note-Taker.GIF)
 
 ## Usage Instructions
 1. Click here to open the [Deployed Application Link:](https://nanut-testing.herokuapp.com/)
