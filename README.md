@@ -50,7 +50,7 @@ Create an application that uses Express.js on the back end by saving and retriev
 2. Click "Get Started" to open the note taker.
 3. Enter text into the 'title' and 'text' fields 
 4. Click the save icon (top right) to save the note.
-5. Click the + icon (top right) to add another note.
+5. Click the + icon (on the top right) to add another note.
 
 
 ## Deployed Application Link:
