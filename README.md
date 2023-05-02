@@ -51,7 +51,7 @@ Create an application that uses Express.js on the back end by saving and retriev
 3. Enter text into the 'title' and 'text' fields 
 4. Click the save icon (top right) to save the note.
 5. Click the + icon (top right) to add another note.
-6. Additional: Click the trash icon to delete saved notes.
+
 
 ## Deployed Application Link:
 [Deployed Application Link]:(https://nanut-testing.herokuapp.com/notes)
